@@ -1,6 +1,3 @@
 testando aula de git
-<<<<<<< HEAD
-de novoooo modificando por aqui
-=======
 novo testeeee
->>>>>>> 0bfc9515d48179d233851411f14aaea4cbce8fb4
+de novoooo modificando por aqui
